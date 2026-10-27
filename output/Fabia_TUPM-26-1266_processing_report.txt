@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Fabia
+Student ID: TUPM-26-1266
+Seed Digit: 6
+ID Sum: 23
+Verification Value: 121
+Dataset Sample Size: 73
+Valid Records: 73
+Average Global Active Power: 4.050
+JSON File: Fabia_TUPM-26-1266_record.json
+Backup File: Fabia_TUPM-26-1266_record.csv

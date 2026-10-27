@@ -1,0 +1,5 @@
+Student: Fabia
+Student ID: TUPM-26-1266
+Seed digit: 6
+ID Sum: 23
+Verification value: 121
