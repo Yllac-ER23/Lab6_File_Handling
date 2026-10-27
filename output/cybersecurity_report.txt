@@ -1,0 +1,23 @@
+Target Year: 2021
+Total Records: 3000
+Incident Count: 299
+Total Financial Loss: 15873.41
+Average Financial Loss: 53.09
+
+Attack Counts:
+Phishing: 41
+SQL Injection: 59
+Malware: 49
+DDoS: 47
+Ransomware: 55
+Man-in-the-Middle: 48
+
+Five Costliest Incidents:
+USA | DDoS | 99.81
+France | Ransomware | 99.77
+France | SQL Injection | 98.76
+China | SQL Injection | 98.57
+India | SQL Injection | 98.09
+
+Filtered CSV: output\cybersecurity_2021.csv
+JSON Summary: output\cybersecurity_summary.json
